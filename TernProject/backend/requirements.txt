@@ -1,0 +1,15 @@
+requests
+pandas
+python-dotenv
+matplotlib
+twitter-api-client
+python-dotenv
+selenium 
+webdriver-manager
+seaborn
+nltk
+wordcloud
+plotly
+streamlit
+redis
+websocket-client
