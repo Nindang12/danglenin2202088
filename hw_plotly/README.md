@@ -2,7 +2,8 @@
 
 ## Overview
 This project visualizes an e-commerce conversion funnel using a funnel chart. It helps analyze user drop-off rates at different stages of the purchase journey.
-
+## Data Used
+Data is taken from Kaggle - User Funnels Dataset, a dataset of user behavior in e-commerce sites. This dataset provides information on the number of users at each stage in the purchase process.
 ## Funnel Chart Explanation
 A funnel chart represents the sequential stages in a process and highlights the decreasing number of users progressing through each stage. It is commonly used in e-commerce analytics to track user engagement and conversion rates.
 
